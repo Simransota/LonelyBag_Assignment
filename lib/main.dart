@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:my_news_app/screens/news_list_screen.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:my_news_app/providers/news_provider.dart';
 import 'package:my_news_app/providers/theme_provider.dart';
-import 'package:my_news_app/screens/news_list_screen.dart';
 
-Future<void> main() async {
-  // Load the .env file
-  await dotenv.load(fileName: ".env");
-  
+
+void main() {
   runApp(const MyApp());
 }
 

@@ -12,8 +12,9 @@ A simple news application built with Flutter that fetches and displays news arti
 - Dark mode support
 - Error handling and loading states
 
-<img src="screenshots/app.png" alt="App Screenshot" width="300"/>
-
+<img src="screenshots/lightmode.png" alt="App Screenshot" width="300"/>
+<img src="screenshots/darkmode.png" alt="App Screenshot" width="300"/>
+<img src="screenshots/article_details.png" alt="App Screenshot" width="300"/>
 
 ## Setup Instructions
 
