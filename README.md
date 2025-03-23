@@ -1,16 +1,27 @@
-# my_news_app
+# Flutter News App
 
-A new Flutter project.
+A simple news application built with Flutter that fetches and displays news articles from the NewsAPI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Clean and minimalistic UI
+- Display a list of news articles with thumbnails, titles, and descriptions
+- Detailed view for each article
+- Search functionality
+- Pull-to-refresh to update news
+- Dark mode support
+- Error handling and loading states
 
-A few resources to get you started if this is your first Flutter project:
+## Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (latest stable version)
+- Dart SDK
+- Android Studio / VS Code
+- NewsAPI key (get it from [https://newsapi.org/](https://newsapi.org/))
+
+### Installation
+
+1. Clone the repository:
+
